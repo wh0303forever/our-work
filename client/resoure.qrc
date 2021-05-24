@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>debug/school.jpg</file>
+        <file alias="name">debug/QQ图片20210510231125.png</file>
+        <file alias="symbol">debug/QQ图片20210510231202.png</file>
+    </qresource>
+</RCC>
